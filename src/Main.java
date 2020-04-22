@@ -32,7 +32,7 @@ public class Main {
                     second = sc.nextFloat();
                     point1 = new Point(first,second);
                     break;
-                case 2:
+                case 0:
                     System.out.println("\t\t****Second point x and y****");
                     System.out.print("please enter x: ");
                     third = sc.nextFloat();
